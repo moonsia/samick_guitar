@@ -265,6 +265,7 @@ div.sound_wrap{
 div.item_foryou{
     background-image: url(../images/item_bg.png);
     margin:120px auto;
+    background-size: cover;
     width:1080px;
     height: 400px;
     border-radius: 20px;
@@ -466,10 +467,6 @@ footer>div>.ft_logo{
     }
     .slider>div>div>h3>p{
         font-size: 28px;
-    }
-
-    .ht_wrap{  
-        
     }
     section>.htproduct{
         width:100% !important;
